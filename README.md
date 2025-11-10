@@ -1,13 +1,13 @@
-POLITEKNIK NEGERI BANDUNG
-JURUSAN TEKNIK KOMPUTER DAN INFORMATIKA
-SARJANA TERAPAN - TEKNIK INFORMATIKA
+# POLITEKNIK NEGERI BANDUNG
+## JURUSAN TEKNIK KOMPUTER DAN INFORMATIKA
+### SARJANA TERAPAN - TEKNIK INFORMATIKA
 ------------------------------------
 Repositori untuk menyimpan konfigurasi jaringan Tugas Besar Mata Kuliah Komunikasi Data dan Jaringan
 
 Anggota Kelompok:
-Faris Ichsan Alyawa - 241524010
-Muhammad Nabil Syauqi Rasyiq - 241524018
-Praditama Ajmal Hasan - 241524023
+- Faris Ichsan Alyawa - 241524010
+- Muhammad Nabil Syauqi Rasyiq - 241524018
+- Praditama Ajmal Hasan - 241524023
 
 Berikut Studi Kasusnya:
 {Case H: Jaringan Kantor Pemerintah}
