@@ -12,4 +12,6 @@ Anggota Kelompok:
 
 Berikut Studi Kasusnya:  
 {Case H: Jaringan Kantor Pemerintah}  
+<p align="justify">
 Sebuah kantor pemerintah sedang membangun jaringan untuk pusat administrasinya. Jaringan ini memerlukan subnet untuk Hubungan Masyarakat (55 host), Layanan TI (22 host), Legal (18 host), dan Logistik (14 host). VLAN akan digunakan untuk menjaga kerahasiaan data antar setiap divisinya, khusus untuk Legal dan Layanan IT perlu bisa berkomunikasi antar-VLAN untuk berdiskusi mengenai kerahasiaan data dan dokumen penting. Area Layanan Umum disediakan akses internet dengan pengalamatan otomatis sehingga ketika menunggu giliran bisa dapat menggunakan jaringan. Tiga router akan ditempatkan pada setiap lantai untuk menghubungkan lantai kantor utama & layanan umum, IT & Legal, dan Logistik.  
+</p>
